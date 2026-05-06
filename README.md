@@ -17,6 +17,7 @@
 
 ## 注意事項
 > 當未進行錄音就點擊撥放，會有錯誤視窗的產生，如下圖。
-<img width="255" height="210" alt="螢幕擷取畫面 2026-05-06 122752" src="https://github.com/user-attachments/assets/ea08878b-8343-4a5d-bce0-7dab81386539" />
 
 > 本系統會有稍微延遲的情況
+
+<img width="255" height="210" alt="螢幕擷取畫面 2026-05-06 122752" src="https://github.com/user-attachments/assets/ea08878b-8343-4a5d-bce0-7dab81386539" />
