@@ -137,13 +137,12 @@ namespace Piano
             foreach (int index in recordNotes)
             {
                 Beep(freq[index], 300);
-                //await Task.Delay(100);
             }
         }
 
         private void song_Click(object sender, EventArgs e)
         {
-            // 小星星：Do Do Sol Sol La La Sol
+            // 小星星
             int[] song = {
                 0, 0, 4, 4, 5, 5, 4,
                 3, 3, 2, 2, 1, 1, 0,
@@ -156,7 +155,6 @@ namespace Piano
             foreach (int index in song)
             {
                 Beep(freq[index], 300);
-                //await Task.Delay(0);
             }
         }
     }
